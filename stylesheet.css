@@ -71,7 +71,9 @@ mark {
     
     body {
         text-align: left;
-      height:100vh;
+        display:flex;
+        justify-content:center;
+         alignt-items:center;
     }
 
     h2{
