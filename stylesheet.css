@@ -46,7 +46,7 @@ mark {
     background-color:  hsl(244, 38%, 16%);
     display: flex;
     flex-direction: column;
-    margin: 0 auto;
+    margin: 2rem 0rem 2rem 0rem;
     border-radius: 0.2rem;
     
 }
@@ -108,6 +108,7 @@ mark {
         display: flex;
         flex-direction: row-reverse;
         border-radius: 0.2rem;
+        margin: 0 auto;
         
     }
 
