@@ -71,6 +71,7 @@ mark {
     
     body {
         text-align: left;
+      height:100vh;
     }
 
     h2{
